@@ -46,6 +46,9 @@ print(x)
 
 ## Output:
 ![image](https://github.com/Aswinth21/LU-Decomposition/assets/120236638/1ba645c0-538e-4b46-beef-b506fae9776d)<br>
+<br>
+<br>
+<br>
 ![image](https://github.com/Aswinth21/LU-Decomposition/assets/120236638/e4912dd7-8b3e-4fdb-ad1d-b4fc80b48bab)
 
 
